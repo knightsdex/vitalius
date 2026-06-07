@@ -5065,7 +5065,7 @@
           src: "/images/memes/opt/meme-050.jpg",
           full: "/images/memes/meme-050.jpg",
           thumb: "/images/memes/thumb/meme-050.jpg",
-          caption: "Naval Commander",
+          caption: "Emperor of Ethereum",
           act: "II",
           orientation: "square",
           w: 1024,
