@@ -2012,7 +2012,7 @@
           title: "Buy $VITALIUS",
           description:
             "Acquire your imperial tokens on Uniswap. The gates to the empire are always open.",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
           accent: "#C9A96E",
           accentGlow: "rgba(201,169,110,0.3)",
           borderColor: "rgba(201,169,110,0.4)",
@@ -2834,7 +2834,7 @@
       p = e.i(59432),
       p = p,
       u = e.i(83577);
-    let g = "0xComingSoon",
+    let g = "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
       h = [
         {
           label: "Twitter / X",
@@ -2862,7 +2862,7 @@
         },
         {
           label: "Uniswap",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
           icon: (0, t.jsx)(d.ExternalLink, { className: "size-5" }),
         },
       ],
@@ -7238,7 +7238,7 @@
       a = e.i(57688),
       s = e.i(46932);
     let i =
-      "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon";
+      "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0";
     e.s([
       "UNISWAP_SWAP_URL",
       0,
@@ -8907,7 +8907,7 @@
         },
         {
           label: "Uniswap",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
           icon: (0, t.jsx)(s.ExternalLink, { className: "size-5" }),
         },
       ],
@@ -9121,7 +9121,7 @@
       y = e.i(61476),
       v = e.i(31596),
       j = e.i(75379);
-    let w = "0xComingSoon",
+    let w = "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
       N = [0.16, 1, 0.3, 1],
       k = {
         hidden: {},
@@ -9920,7 +9920,7 @@
                                 "0 20px 50px -18px rgba(0,0,0,0.55), inset 0 1px 0 rgba(245,210,128,0.06)",
                             },
                             children: (0, t.jsx)("iframe", {
-                              src: "https://dexscreener.com/ethereum/0xComingSoon?embed=1&theme=dark&info=0",
+                              src: "https://dexscreener.com/ethereum/0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0?embed=1&theme=dark&info=0",
                               title: "$DOGEUS DEX Chart",
                               className:
                                 "h-[480px] w-full border-0 sm:h-[560px] lg:h-[640px]",
@@ -9931,7 +9931,7 @@
                           (0, t.jsx)("div", {
                             className: "mt-3 text-center",
                             children: (0, t.jsxs)("a", {
-                              href: "https://dexscreener.com/ethereum/0xComingSoon",
+                              href: "https://dexscreener.com/ethereum/0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
