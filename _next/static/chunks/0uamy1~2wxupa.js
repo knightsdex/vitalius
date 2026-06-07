@@ -1972,7 +1972,7 @@
           title: "Join the Senate",
           description:
             "Discuss strategy, share memes, and rally with fellow citizens in our Telegram HQ.",
-          href: "https://t.me/TheDogeusMaximus",
+          href: "https://t.me/vitaliusmaximus_Portal",
           accent: "#2563eb",
           accentGlow: "rgba(37,99,235,0.25)",
           borderColor: "rgba(37,99,235,0.35)",
@@ -1992,7 +1992,7 @@
           title: "Spread the Word",
           description:
             "Follow, repost, and let the world know: the emperor has arrived. Memes welcome.",
-          href: "https://x.com/dogeusmaximusX",
+          href: "https://x.com/vitaliusmaximus",
           accent: "#F5F0E8",
           accentGlow: "rgba(245,240,232,0.1)",
           borderColor: "rgba(245,240,232,0.15)",
@@ -2838,7 +2838,7 @@
       h = [
         {
           label: "Twitter / X",
-          href: "https://x.com/dogeusmaximusX",
+          href: "https://x.com/vitaliusmaximus",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -2850,7 +2850,7 @@
         },
         {
           label: "Telegram",
-          href: "https://t.me/TheDogeusMaximus",
+          href: "https://t.me/vitaliusmaximus_Portal",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -7959,7 +7959,7 @@
                             "min-h-[44px] px-8 py-3.5 text-sm sm:text-base",
                         }),
                         (0, t.jsxs)(i.motion.a, {
-                          href: "https://t.me/TheDogeusMaximus",
+                          href: "https://t.me/vitaliusmaximus_Portal",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           whileHover: { scale: 1.04 },
@@ -8883,7 +8883,7 @@
     let m = [
         {
           label: "Telegram",
-          href: "https://t.me/TheDogeusMaximus",
+          href: "https://t.me/vitaliusmaximus_Portal",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -8895,7 +8895,7 @@
         },
         {
           label: "Twitter / X",
-          href: "https://x.com/dogeusmaximusX",
+          href: "https://x.com/vitaliusmaximus",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -10016,7 +10016,7 @@
                           ? "relative inline-block font-heading text-[11px] font-bold tracking-[0.2em] uppercase transition-[text-shadow,color,filter] duration-300 group-hover/ticker:[filter:drop-shadow(0_0_18px_rgba(245,210,128,0.7))] sm:text-sm sm:tracking-[0.3em]"
                           : "relative inline-block font-heading text-[11px] font-bold tracking-[0.2em] uppercase transition-[text-shadow,color] duration-300 group-hover/ticker:[text-shadow:0_0_13px_rgba(201,169,110,0.55)] sm:text-sm sm:tracking-[0.3em]",
                         style: a.highlight ? m : { color: "#C9A96E" },
-                        children: a.highlight ? "$DOGEUS" : a.text,
+                        children: a.highlight ? "$VITALIUS" : a.text,
                       }),
                       (0, t.jsxs)("span", {
                         className:
@@ -10676,7 +10676,7 @@
               label: "Total Supply",
               displayValue: "1,000,000,000",
               icon: "📜",
-              description: "One billion $DOGEUS",
+              description: "One billion $VITALIUS",
               counter: { kind: "count", value: 1e9, decimals: 0 },
             },
             {
