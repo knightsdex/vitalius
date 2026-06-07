@@ -1116,7 +1116,7 @@
         { src: "/images/doge-colosseum.jpg", alt: "Emperor of Rome" },
         { src: "/images/doge-painting.jpg", alt: "The Masterpiece" },
         { src: "/images/doge-rest.jpg", alt: "After the Battle" },
-        { src: "/images/doge-ship.jpg", alt: "Naval Commander" },
+        { src: "/images/doge-ship.jpg", alt: "Emperor of Ethereum" },
       ],
       h = [0.16, 1, 0.3, 1],
       x = {
